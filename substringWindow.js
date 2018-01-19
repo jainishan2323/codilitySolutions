@@ -76,5 +76,6 @@ function getWindow(string, pattern) {
     // };
 }
 
-var g = getWindow("geeksforgeeks", "ork");
-g
+var h = getWindow("geeksforgeeks", "ork");
+h
+
